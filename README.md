@@ -14,4 +14,4 @@ Grep - search for patterns in each file.
 Server - client/server communication.
 
 
-Terminal - command line interface, shell.
+Terminal - command line interface.
